@@ -1,7 +1,6 @@
-package com.jaygoo.widget;
+package com.jaygoo.selector;
 
 import android.app.Activity;
-import android.content.Context;
 import android.graphics.drawable.ColorDrawable;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -284,7 +283,7 @@ public class MultiSelectPopWindow {
         }
     }
 
-    private void dismiss() {
+    public void dismiss() {
         if (mPopupWindow != null){
             mPopupWindow.dismiss();
         }

@@ -1,4 +1,4 @@
-package com.jaygoo.widget;
+package com.jaygoo.selector;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;

@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.jaygoo.widget.MultiSelectPopWindow;
+import com.jaygoo.selector.MultiSelectPopWindow;
 
 import java.util.ArrayList;
 
