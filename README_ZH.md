@@ -1,10 +1,10 @@
 
 # MultiSelectPopWindow
 
-## [中文文档]()
+## [英文文档](https://github.com/Jay-Goo/MultiSelectPopWindow/edit/master/README.md)
 
 
-![image]()
+![image](https://github.com/Jay-Goo/MultiSelectPopWindow/blob/master/preview/2017-02-23%2010_25_46.gif)
 
 
 
