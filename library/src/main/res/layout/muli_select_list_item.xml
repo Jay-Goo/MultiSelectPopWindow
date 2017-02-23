@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+    <TextView
+        android:id="@+id/choiceNameBtn"
+        android:layout_width="wrap_content"
+        android:elevation="0dp"
+        android:layout_height="30dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textColor="@drawable/list_text_color_selector"
+        android:layout_centerInParent="true"
+        android:background="@drawable/muliti_choice_list_item_btn_bg"
+        android:textSize="16sp"
+        android:gravity="center"
+    />
+
+</RelativeLayout>
