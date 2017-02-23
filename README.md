@@ -4,7 +4,7 @@
 ## [中文文档](https://github.com/Jay-Goo/MultiSelectPopWindow/blob/master/README_ZH.md)
 
 
-![image](https://github.com/Jay-Goo/MultiSelectPopWindow/blob/master/preview/2017-02-23%2010_25_46.gif)
+![image](https://github.com/Jay-Goo/MultiSelectPopWindow/blob/master/preview/2017-02-23_10_46_15.gif)
 
 
 
