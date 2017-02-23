@@ -19,7 +19,7 @@
 	}
 
 	dependencies {
-	        compile 'com.github.Jay-Goo:MultiSelectPopWindow:v1.0.0'
+	        compile 'com.github.Jay-Goo:MultiSelectPopWindow:v1.0.1'
 	}
 
 ```
