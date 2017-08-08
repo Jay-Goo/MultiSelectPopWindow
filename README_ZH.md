@@ -8,8 +8,8 @@
 
 
 
-##Usage
-###Step1：
+## Usage
+### Step1：
 ```xml
     allprojects {
 		repositories {
@@ -25,7 +25,7 @@
 ```
 
 
-###Step2：
+### Step2：
 ```xml
    new MultiSelectPopWindow.Builder(this)
                            .setNameArray(names)
@@ -42,7 +42,7 @@
                            .show(findViewById(R.id.mBottom));
 ```
 
-##其它
+## 其它
 希望你喜欢我的作品。`Star`是对我的最大支持. 谢谢
 
 
