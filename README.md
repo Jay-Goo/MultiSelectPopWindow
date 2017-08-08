@@ -8,8 +8,8 @@
 
 
 
-##Usage
-###Step1：
+## Usage
+### Step1：
 ```xml
     allprojects {
 		repositories {
@@ -25,7 +25,7 @@
 ```
 
 
-###Step2：
+### Step2：
 ```xml
    new MultiSelectPopWindow.Builder(this)
                            .setNameArray(names)
@@ -42,11 +42,11 @@
                            .show(findViewById(R.id.mBottom));
 ```
 
-#Feature
+# Feature
 more attributes you could set !
 
 
-##Others 
+## Others 
 
 I hope you like this MultiSelectPopWindow. `Star` is the greatest support for me！ Thank U
 
