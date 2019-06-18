@@ -41,6 +41,20 @@
                            .build()
                            .show(findViewById(R.id.mBottom));
 ```
+## 联系我
+
+- Email： 1015121748@qq.com
+- QQ Group: 573830030 有时候工作很忙没空看邮件和Issue,大家可以通过QQ群联系我
+<div style="text-align: center;">
+<img src="https://github.com/Jay-Goo/RangeSeekBar/blob/master/Gif/qq.png" style="margin: 0 auto;" height="250px"/>
+</div>
+
+## 一杯咖啡
+
+大家都知道开源是件很辛苦的事情，这个项目也是我工作之余完成的，平时工作很忙，但大家提的需求基本上我都尽量满足，如果这个项目帮助你节省了大量时间，你很喜欢，你可以给我一杯咖啡的鼓励，不在于钱多钱少，关键是你的这份鼓励所带给我的力量~
+<div style="text-align: center;">
+<img src="https://github.com/Jay-Goo/RangeSeekBar/blob/master/Gif/pay.png" height="200px"/>
+</div>
 
 ## 其它
 希望你喜欢我的作品。`Star`是对我的最大支持. 谢谢
